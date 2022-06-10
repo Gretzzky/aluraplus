@@ -1,2 +1,2 @@
 # aluraplus
-Página promocional sobre assinatura de uma instituição de ensino (Alura)
+Página promocional sobre assinatura de uma instituição de ensino (Alura).
